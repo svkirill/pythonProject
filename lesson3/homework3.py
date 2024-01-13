@@ -28,7 +28,7 @@ def login_user():
 
 
 def view_user_info():
-    print()
+    print(users)
 
 def logout_user():
     print('Вы вышли из системы')
